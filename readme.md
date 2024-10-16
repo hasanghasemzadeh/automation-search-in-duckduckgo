@@ -1,5 +1,3 @@
-# Divar QA Engineer Task
-
 ## use  python 3.8 
 
 ## ‌‌Before Execution, run these commands in project directory
